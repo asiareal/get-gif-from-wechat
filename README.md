@@ -9,6 +9,7 @@
 ## 效果
 
 先来体验一下效果
+![效果](./images/show.gif)
 
 ## 使用方法
 
@@ -22,7 +23,7 @@ cd get-gif-from-wechat
 chmod +x get-gif-from-wechat.sh
 
 # 执行脚本
-./git-gif-from-wechat.sh
+./get-gif-from-wechat.sh
 
 # ok 文件会在桌面 `pkg` 文件夹中
 # enjoy it! 
