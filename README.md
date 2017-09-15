@@ -13,11 +13,15 @@
 ```bash
 git clone https://github.com/asiareal/get-gif-from-wechat.git
 
+# 进入脚本目录
 cd get-gif-from-wechat
+
 # 给脚本添加执行权限
 chmod +x get-gif-from-wechat.sh
+
 # 执行脚本
 ./git-gif-from-wechat.sh
+
 # ok 文件会在桌面 `pkg` 文件夹中
 # enjoy it! 
 ```
